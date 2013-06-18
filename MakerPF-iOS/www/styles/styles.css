@@ -1,0 +1,13 @@
+body
+{
+	background-color: #000000;
+	margin:0em;
+	padding:0em;
+	overflow:hidden;
+}
+canvas
+{
+	webkit-user-select:none;
+}
+
+
